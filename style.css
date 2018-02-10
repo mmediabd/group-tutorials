@@ -1,0 +1,10 @@
+.first {
+	color: green;
+}
+.second {
+	color: red;
+}
+
+div div .intodiv {
+	color: tan;
+}
