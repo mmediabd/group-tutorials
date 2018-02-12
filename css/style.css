@@ -1,0 +1,49 @@
+body, div, p, table, ul, h1, li {
+	border: 0; margin: 0; padding: 0;
+}
+.container {
+	width: 960px;
+	margin: 0 auto;
+}
+
+.header {
+	height: 200px;
+	background: #eee;
+}
+.main-body {
+	float: left;
+	width: 580px;
+	margin-right: 20px;
+}
+
+.sidebar {
+	background: tan;
+	float: right;
+	width: 346px;
+	padding: 5px 7px;
+}
+.footer {
+	clear: both;
+	background: #999;
+	height: 60px;
+}
+.footer a {
+	text-align: center;
+	color: white;
+}
+
+h1 {
+	text-align: center;
+	color: #555;
+}
+.slogan {
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+}
+.center {
+	text-align: center;
+	padding-top: 22px;
+}
+
+
